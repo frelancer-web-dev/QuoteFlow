@@ -1,0 +1,73 @@
+/* ============================================
+   QuoteFlow - Theme System
+   ============================================ */
+
+:root {
+    /* Dark Theme Colors */
+    --bg-primary: #0f1419;
+    --bg-secondary: #1a1f2e;
+    --bg-tertiary: #242b3d;
+    --bg-card: #1e2532;
+    
+    /* Text Colors */
+    --text-primary: #e6e8eb;
+    --text-secondary: #a0a8b8;
+    --text-muted: #6b7280;
+    
+    /* Accent Colors */
+    --accent-primary: #60a5fa;
+    --accent-secondary: #818cf8;
+    --accent-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    
+    /* Interactive States */
+    --hover-bg: #2a3142;
+    --active-bg: #323b52;
+    
+    /* Shadows */
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.5);
+    --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.6);
+}
+
+/* === LIGHT THEME === */
+[data-theme="light"] {
+    --bg-primary: #f8fafc;
+    --bg-secondary: #ffffff;
+    --bg-tertiary: #f1f5f9;
+    --bg-card: #ffffff;
+    
+    --text-primary: #1e293b;
+    --text-secondary: #475569;
+    --text-muted: #94a3b8;
+    
+    --accent-primary: #3b82f6;
+    --accent-secondary: #6366f1;
+    
+    --hover-bg: #f1f5f9;
+    --active-bg: #e2e8f0;
+    
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.15);
+}
+
+/* === THEME ICON TRANSITIONS === */
+[data-theme="light"] .sun-icon {
+    opacity: 1;
+    transform: rotate(0deg) scale(1);
+}
+
+[data-theme="light"] .moon-icon {
+    opacity: 0;
+    transform: rotate(180deg) scale(0.5);
+}
+
+[data-theme="dark"] .sun-icon {
+    opacity: 0;
+    transform: rotate(-180deg) scale(0.5);
+}
+
+[data-theme="dark"] .moon-icon {
+    opacity: 1;
+    transform: rotate(0deg) scale(1);
+}
