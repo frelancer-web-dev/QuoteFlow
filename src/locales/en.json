@@ -1,0 +1,274 @@
+{
+  "app": {
+    "title": "QuoteFlow",
+    "subtitle": "Inspiration for every day ✨"
+  },
+  "buttons": {
+    "newQuote": "New Quote",
+    "copy": "Copy",
+    "themeToggle": "Theme Toggle"
+  },
+  "placeholders": {
+    "initial": "Click the button to get an inspiring quote"
+  },
+  "messages": {
+    "copied": "Quote copied!",
+    "copyError": "Copy error",
+    "generateFirst": "Generate a quote first"
+  },
+  "counter": {
+    "template": "{used} / {total}"
+  },
+  "quotes": [
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "Motivation"
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "Inspiration"
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "Work"
+    },
+    {
+      "text": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "category": "Life"
+    },
+    {
+      "text": "Don't let yesterday take up too much of today.",
+      "author": "Will Rogers",
+      "category": "Wisdom"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "category": "Motivation"
+    },
+    {
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "category": "Inspiration"
+    },
+    {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela",
+      "category": "Education"
+    },
+    {
+      "text": "The only thing we have to fear is fear itself.",
+      "author": "Franklin D. Roosevelt",
+      "category": "Courage"
+    },
+    {
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde",
+      "category": "Personality"
+    },
+    {
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "category": "Motivation"
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "category": "Adventure"
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "Belief"
+    },
+    {
+      "text": "Limitations live only in our minds.",
+      "author": "Jamie Paolinetti",
+      "category": "Possibilities"
+    },
+    {
+      "text": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+      "author": "Norman Vincent Peale",
+      "category": "Dreams"
+    },
+    {
+      "text": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "category": "Happiness"
+    },
+    {
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "category": "Persistence"
+    },
+    {
+      "text": "Change your thoughts and you change your world.",
+      "author": "Norman Vincent Peale",
+      "category": "Mindset"
+    },
+    {
+      "text": "What you do today can improve all your tomorrows.",
+      "author": "Ralph Marston",
+      "category": "Action"
+    },
+    {
+      "text": "Whether you think you can or you think you can't, you're right.",
+      "author": "Henry Ford",
+      "category": "Belief"
+    },
+    {
+      "text": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein",
+      "category": "Creativity"
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "category": "Persistence"
+    },
+    {
+      "text": "Everything you've ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "category": "Courage"
+    },
+    {
+      "text": "Believe in yourself and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "Confidence"
+    },
+    {
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe",
+      "category": "Action"
+    },
+    {
+      "text": "Fall seven times, stand up eight.",
+      "author": "Japanese Proverb",
+      "category": "Persistence"
+    },
+    {
+      "text": "A man is but the product of his thoughts. What he thinks, he becomes.",
+      "author": "Mahatma Gandhi",
+      "category": "Mindset"
+    },
+    {
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb",
+      "category": "Action"
+    },
+    {
+      "text": "Only I can change my life. No one can do it for me.",
+      "author": "Carol Burnett",
+      "category": "Responsibility"
+    },
+    {
+      "text": "Don't count the days, make the days count.",
+      "author": "Muhammad Ali",
+      "category": "Life"
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney",
+      "category": "Dreams"
+    },
+    {
+      "text": "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+      "author": "Dalai Lama",
+      "category": "Failure"
+    },
+    {
+      "text": "The road to success is always under construction.",
+      "author": "Lily Tomlin",
+      "category": "Success"
+    },
+    {
+      "text": "Don't let the past steal your present.",
+      "author": "Terri Guillemets",
+      "category": "Present"
+    },
+    {
+      "text": "Doubt kills more dreams than failure ever will.",
+      "author": "Suzy Kassem",
+      "category": "Doubt"
+    },
+    {
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "category": "Action"
+    },
+    {
+      "text": "It's never too late to be what you might have been.",
+      "author": "George Eliot",
+      "category": "Change"
+    },
+    {
+      "text": "Someone is sitting in the shade today because someone planted a tree a long time ago.",
+      "author": "Warren Buffett",
+      "category": "Future"
+    },
+    {
+      "text": "Happiness is not by chance, but by choice.",
+      "author": "Jim Rohn",
+      "category": "Happiness"
+    },
+    {
+      "text": "Life is 10% what happens to you and 90% how you react to it.",
+      "author": "Charles R. Swindoll",
+      "category": "Reaction"
+    },
+    {
+      "text": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
+      "author": "Sheryl Sandberg",
+      "category": "Opportunities"
+    },
+    {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "category": "Beginning"
+    },
+    {
+      "text": "Everyone has inside them a piece of good news. The good news is you don't know how great you can be!",
+      "author": "Anne Frank",
+      "category": "Victory"
+    },
+    {
+      "text": "To win without risk is to triumph without glory.",
+      "author": "Pierre Corneille",
+      "category": "Risk"
+    },
+    {
+      "text": "Winning isn't everything, but wanting to win is.",
+      "author": "Vince Lombardi",
+      "category": "Victory"
+    },
+    {
+      "text": "Your life does not get better by chance, it gets better by change.",
+      "author": "Jim Rohn",
+      "category": "Change"
+    },
+    {
+      "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+      "author": "Henry David Thoreau",
+      "category": "Dreams"
+    },
+    {
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "category": "Persistence"
+    },
+    {
+      "text": "Do today what others won't, so tomorrow you can do what others can't.",
+      "author": "Jared Leto",
+      "category": "Discipline"
+    },
+    {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "category": "Beginning"
+    }
+  ]
+}
